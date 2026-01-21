@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkerNode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02771c1be5acb07f87c51f3f15f769953a2233c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkerNode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkerNode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,18 @@ C:\Users\kakwa\Desktop\Projekt Rozproszony\MasterServer\obj\Debug\net10.0\refint
 C:\Users\kakwa\Desktop\Projekt Rozproszony\MasterServer\obj\Debug\net10.0\MasterServer.pdb
 C:\Users\kakwa\Desktop\Projekt Rozproszony\MasterServer\obj\Debug\net10.0\MasterServer.genruntimeconfig.cache
 C:\Users\kakwa\Desktop\Projekt Rozproszony\MasterServer\obj\Debug\net10.0\ref\MasterServer.dll
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\bin\Debug\net10.0\MasterServer.exe
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\bin\Debug\net10.0\MasterServer.deps.json
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\bin\Debug\net10.0\MasterServer.runtimeconfig.json
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\bin\Debug\net10.0\MasterServer.dll
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\bin\Debug\net10.0\MasterServer.pdb
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\obj\Debug\net10.0\MasterServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\obj\Debug\net10.0\MasterServer.AssemblyInfoInputs.cache
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\obj\Debug\net10.0\MasterServer.AssemblyInfo.cs
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\obj\Debug\net10.0\MasterServer.csproj.CoreCompileInputs.cache
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\obj\Debug\net10.0\MasterServer.sourcelink.json
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\obj\Debug\net10.0\MasterServer.dll
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\obj\Debug\net10.0\refint\MasterServer.dll
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\obj\Debug\net10.0\MasterServer.pdb
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\obj\Debug\net10.0\MasterServer.genruntimeconfig.cache
+C:\Users\kakwa\Desktop\ProgramowanieWiR-Projekt\MasterServer\obj\Debug\net10.0\ref\MasterServer.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kakwa\\Desktop\\Projekt Rozproszony\\WorkerNode\\WorkerNode.csproj": {}
+    "C:\\Users\\kakwa\\Desktop\\ProgramowanieWiR-Projekt\\WorkerNode\\WorkerNode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kakwa\\Desktop\\Projekt Rozproszony\\WorkerNode\\WorkerNode.csproj": {
+    "C:\\Users\\kakwa\\Desktop\\ProgramowanieWiR-Projekt\\WorkerNode\\WorkerNode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kakwa\\Desktop\\Projekt Rozproszony\\WorkerNode\\WorkerNode.csproj",
+        "projectUniqueName": "C:\\Users\\kakwa\\Desktop\\ProgramowanieWiR-Projekt\\WorkerNode\\WorkerNode.csproj",
         "projectName": "WorkerNode",
-        "projectPath": "C:\\Users\\kakwa\\Desktop\\Projekt Rozproszony\\WorkerNode\\WorkerNode.csproj",
+        "projectPath": "C:\\Users\\kakwa\\Desktop\\ProgramowanieWiR-Projekt\\WorkerNode\\WorkerNode.csproj",
         "packagesPath": "C:\\Users\\kakwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kakwa\\Desktop\\Projekt Rozproszony\\WorkerNode\\obj\\",
+        "outputPath": "C:\\Users\\kakwa\\Desktop\\ProgramowanieWiR-Projekt\\WorkerNode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
