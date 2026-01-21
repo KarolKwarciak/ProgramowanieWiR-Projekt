@@ -1,0 +1,14 @@
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\bin\Release\net10.0\WorkerNode.exe
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\bin\Release\net10.0\WorkerNode.deps.json
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\bin\Release\net10.0\WorkerNode.runtimeconfig.json
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\bin\Release\net10.0\WorkerNode.dll
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\bin\Release\net10.0\WorkerNode.pdb
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\obj\Release\net10.0\WorkerNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\obj\Release\net10.0\WorkerNode.AssemblyInfoInputs.cache
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\obj\Release\net10.0\WorkerNode.AssemblyInfo.cs
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\obj\Release\net10.0\WorkerNode.csproj.CoreCompileInputs.cache
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\obj\Release\net10.0\WorkerNode.dll
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\obj\Release\net10.0\refint\WorkerNode.dll
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\obj\Release\net10.0\WorkerNode.pdb
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\obj\Release\net10.0\WorkerNode.genruntimeconfig.cache
+C:\Users\kakwa\Desktop\Projekt Rozproszony\WorkerNode\obj\Release\net10.0\ref\WorkerNode.dll
